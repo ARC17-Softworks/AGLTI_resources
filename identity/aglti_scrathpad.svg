@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="1224.1067"
-     inkscape:cy="627.6397"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="186.15067"
+     inkscape:cy="505.63015"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -161,42 +161,6 @@
          id="path1740"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:0;font-family:Azonix;-inkscape-font-specification:Azonix;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          d="m -352.59232,154.8572 v -35.56 h -6.35 v 35.56 z" />
-    </g>
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.678461;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect850"
-       width="199.32155"
-       height="199.32153"
-       x="267.04581"
-       y="14.811475"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <g
-       id="g860"
-       transform="translate(274.983,-38.782897)"
-       style="fill:#000000">
-      <text
-         id="text854"
-         y="166.25459"
-         x="17.758924"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:0;font-family:Azonix;-inkscape-font-specification:Azonix;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-size:50.8px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           y="166.25459"
-           x="17.758924"
-           id="tspan852"
-           sodipodi:role="line">AGLTI</tspan></text>
-      <text
-         id="text858"
-         y="175.66963"
-         x="23.558502"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:0;font-family:Azonix;-inkscape-font-specification:Azonix;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:1.09008px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           y="175.66963"
-           x="23.558502"
-           id="tspan856"
-           sodipodi:role="line">CONNECT.COLLABORATE.CREATE.</tspan></text>
     </g>
   </g>
 </svg>
