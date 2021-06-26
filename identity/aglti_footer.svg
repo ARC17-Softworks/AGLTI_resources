@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +57,9 @@
     <g
        id="g829"
        transform="translate(12.055536,-41.001148)"
-       style="fill:#000000">
+       style="fill:#000000"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <g
          aria-label="AGLTI"
          id="text819"
